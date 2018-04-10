@@ -95,7 +95,7 @@ nav li:hover, nav a:hover {
   position: relative;
   text-align: center;
   cursor: default;
-  background: #42b078;
+/*  background: #42b078; */
 }
 
 .hovereffect h2 {
